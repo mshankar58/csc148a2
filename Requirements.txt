@@ -1,0 +1,8 @@
+hypothesis
+pytest
+Pygame==2.0.0.dev6
+matplotlib
+flask
+mido
+numpy
+python-ta>=1.5.0
